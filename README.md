@@ -1,6 +1,6 @@
 ## Hi, I'm Rania 👋🏼
 
-I'm a computer science student at Boston University and throughout my undergraduate years I've acquired experience in different areas of computer science, ranging from software engineering, cloud computing, research to data science and engineering. 
+I'm a computer scientist and throughout my undergraduate years I've acquired experience in different areas of computer science, ranging from software engineering, cloud computing, research to data science and engineering. 
 
 - 🌱 I’m currently learning about natural language processing (nlp) and expanding my knowledge on databases.
 
