@@ -6,7 +6,7 @@ I'm a computer scientist and throughout my undergraduate years I've acquired exp
 
 - 💬 Ask me about Python, Java, AWS, SQL and data engineering.
 
-- 📫 How to reach me: raniahakimi[at]icloud.com
+- 📫 How to reach me: contact@raniahakimi.com
 
 ---
 
